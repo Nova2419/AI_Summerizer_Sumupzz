@@ -8,7 +8,7 @@ const Hero = () => {
         <button
           type="button"
           onClick={() =>
-            window.open("https://github.com/Nova2419/AI_Summerizer_Sumupzz#ai-summarizer-sumz")
+            window.open("https://github.com/Nova2419/AI_Summerizer_Sumupzz")
           }
           className="black_btn"
         >
